@@ -2,3 +2,5 @@ fastapi
 uvicorn
 httpx
 black
+jinja2
+aiofiles
