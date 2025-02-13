@@ -4,3 +4,5 @@ httpx
 black
 jinja2
 aiofiles
+python-dotenv
+requests
